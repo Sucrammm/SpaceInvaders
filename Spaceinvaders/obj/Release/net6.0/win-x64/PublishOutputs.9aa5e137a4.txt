@@ -1,0 +1,5 @@
+C:\Users\s2100949\OneDrive - Business College Helsinki\Työpöytä\.net osa2\Spaceinvaders\Spaceinvaders\bin\Release\net6.0\publish\win-x64\Spaceinvaders.pdb
+C:\Users\s2100949\OneDrive - Business College Helsinki\Työpöytä\.net osa2\Spaceinvaders\Spaceinvaders\bin\Release\net6.0\publish\win-x64\enemy.png
+C:\Users\s2100949\OneDrive - Business College Helsinki\Työpöytä\.net osa2\Spaceinvaders\Spaceinvaders\bin\Release\net6.0\publish\win-x64\player.png
+C:\Users\s2100949\OneDrive - Business College Helsinki\Työpöytä\.net osa2\Spaceinvaders\Spaceinvaders\bin\Release\net6.0\publish\win-x64\raylib.dll
+C:\Users\s2100949\OneDrive - Business College Helsinki\Työpöytä\.net osa2\Spaceinvaders\Spaceinvaders\bin\Release\net6.0\publish\win-x64\Spaceinvaders.exe

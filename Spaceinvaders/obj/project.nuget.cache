@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lqhf+bMJgpxTyBZ+QXAq0FMSoYurgZtX5/wQxMdBx7RaYReM89JvbVAC07Zdhoa/mNCfiQoRIci0bgQ8h+n1Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s2100949\\OneDrive - Business College Helsinki\\Työpöytä\\.net osa2\\Spaceinvaders\\Spaceinvaders\\Spaceinvaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s2100949\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\s2100949\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
